@@ -2,7 +2,22 @@
 
 🇧🇷 Nascido em Recife, Brasil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus2-andrade&theme=dark&show_icons=true)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus2-andrade&show_icons=true&theme=dark&show&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus2-andrade&layout=compact&langs_count=7&theme=dark&show"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
+##
+
+<div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 Olá! Como você tá?
 Me chamo Matheus, tenho 19 anos e atualmente atuo como desenvolvedor full stack, mas quer saber um pouco mais de mim?
