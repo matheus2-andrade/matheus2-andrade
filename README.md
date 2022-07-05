@@ -16,8 +16,10 @@
 ##
 
 Olá! Como você tá?
-Me chamo Matheus, tenho 19 anos e atualmente atuo como desenvolvedor full stack, mas quer saber um pouco mais de mim?
+Me chamo Matheus, tenho 20 anos e atualmente atuo como desenvolvedor Flutter, mas quer saber um pouco mais de mim?
 
-Bem, sou um desenvolvedor mobile e back-end que ama desafios e aprender. Atualmente trabalho como estagiário na Nutrin como desenvolvedor Full Stack.
+Atuo como desenvolvedor mobile desde 2019, com um longo histórico de experiências. Participei da criação, prototipação, análise de mercado, desenvolvimento e deploy de diversos aplicativos. 
 
-Desenvolver pra mim é tão prazeroso quanto jogar jogos, amo resolver problemas através do meu código e aprimorar tudo que eu posso.
+Hábil em desenvolvimento de software empresarial e mobile com tecnologias como: Flutter (meu xodó), Android(Kotlin), IOS(Swift), Amazon AWS, Firebase.
+
+Atualmente especialista e entusiasta de Flutter, e experiente com as metodologias ágeis: Kanban e Scrum.
